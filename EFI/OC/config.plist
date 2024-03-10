@@ -447,19 +447,19 @@
                 </dict>
                 <dict>
                     <key>Arch</key>
-                    <string>x86_64</string>
+                    <string>Any</string>
                     <key>BundlePath</key>
-                    <string>IntelMausi.kext</string>
+                    <string>RealtekRTL8111.kext</string>
                     <key>Comment</key>
-                    <string>V1.0.7 | Intel Ethernet LAN</string>
+                    <string>V2.4.2</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
-                    <string>Contents/MacOS/IntelMausi</string>
+                    <string>Contents/MacOS/RealtekRTL8111</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
-                    <string>12.0.0</string>
+                    <string></string>
                     <key>PlistPath</key>
                     <string>Contents/Info.plist</string>
                 </dict>
