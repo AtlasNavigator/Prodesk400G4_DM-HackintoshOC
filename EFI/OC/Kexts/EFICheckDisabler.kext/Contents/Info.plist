@@ -26,6 +26,8 @@
 			<string>IOService</string>
 			<key>IOMatchCategory</key>
 			<string>com_apple_driver_eficheck</string>
+			<key>IOProbeScore</key>
+			<integer>5000</integer>
 			<key>IONameMatch</key>
 			<array>
 				<string>pci8086,1c41</string>
@@ -115,10 +117,7 @@
 				<string>pci8086,9d4e</string>
 				<string>pci8086,a145</string>
 				<string>pci8086,a151</string>
-				<string>pci8086,a306</string>
 			</array>
-			<key>IOProbeScore</key>
-			<integer>5000</integer>
 			<key>IOProviderClass</key>
 			<string>IOPCIDevice</string>
 		</dict>
